@@ -8,7 +8,7 @@ TC-Hydro is a tool developed in VBA language and can be applicable for the follo
 - Design and Simulation of Bioretention Systems
 - One-at-time Sensitivity Analysis
 - Monte Carlo Simulations
-- Design Optimization using Evolucionary Algorithm approch
+- Design Optimization using Evolucionary Algorithm approach
 - Critical rainfall duration assessment
 - Box-plot hydrograph assessment
 
