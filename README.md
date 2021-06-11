@@ -14,7 +14,7 @@ TC-Hydro is a tool developed in VBA language and can be applicable for the follo
 
 The software requires a license of Microsoft Excel 2013 or higher. The user has to enable editing and macros, as well as enabling the solver and developer add-ons for better performance.
 
-### Version 1.0 ###
+### Version 1.0.1 ###
 Developer: Marcus Nóbrega Gomes Júnior,
 
 PhD. Student at University of Texas at San Antonio
