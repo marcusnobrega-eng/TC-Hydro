@@ -1,5 +1,4 @@
 # TC-Hydro
-TC-Hydro Model 
 
 With the purpose of enhancing the analysis and design of bioretention systems, the TC-Hydro model has been developed.
 
